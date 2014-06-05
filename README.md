@@ -23,7 +23,7 @@ BOOKS
 
 
 = LINKS
-- []( https://github.com/brownman/LINUX-ALTERNATIVES/edit/master/README.md )
-- []( https://github.com/brownman/LINUX-ALTERNATIVES/generated_pages/new )
+- [Edit]( https://github.com/brownman/LINUX-ALTERNATIVES/edit/master/README.md )
+- [Css]( https://github.com/brownman/LINUX-ALTERNATIVES/generated_pages/new )
 
 
