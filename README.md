@@ -22,6 +22,13 @@ BOOKS
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
 
+
+SUSPEND/AWAKE
+=
+-  grep rtc /var/log/messages.log
+
+
+
 = LINKS
 - [Edit]( https://github.com/brownman/LINUX-ALTERNATIVES/edit/master/README.md )
 - [Css]( https://github.com/brownman/LINUX-ALTERNATIVES/generated_pages/new )
